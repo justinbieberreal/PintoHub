@@ -1,2 +1,2 @@
 # PintoHub
-[discord.gg/pintohub](https://discord.gg/jq4hD8cB)
+[Pinto Hub Discord Link](https://discord.gg/jq4hD8cB)
