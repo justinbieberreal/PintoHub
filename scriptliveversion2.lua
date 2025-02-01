@@ -1,1 +1,1 @@
-return "v1.2_stable"
+return "v1.3_stable"
